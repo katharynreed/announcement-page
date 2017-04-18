@@ -1,7 +1,6 @@
 # spacial-awareness
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This was a frist attempt at creating a functioning Ember App. It works, but was a struggle to build. Was not originally intended to be uploaded to github, but served to be a great example of Ember in the works. 
 
 ## Prerequisites
 
